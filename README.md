@@ -8,3 +8,5 @@ Solution:
         extension typedef float128 float128_type;
     to
     __extension__ typedef long double float128_type;
+    
+    Ref: https://github.com/BVLC/caffe/issues/3578
