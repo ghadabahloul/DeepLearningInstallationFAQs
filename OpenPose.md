@@ -10,3 +10,7 @@
         sudo dnf install libv4l-devel
       + activate WITH_LIBV4L=ON
    - The rest just follow the defaults installation from Openpose.
+   
+   
+### Tips:
+Always becareful with the syntax of Makefile. A litle error and nothing works.
